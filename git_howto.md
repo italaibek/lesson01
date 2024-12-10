@@ -5,3 +5,9 @@
 ```sh
 git init
 ```
+
+Добавить файлы в индекс:
+
+```sh
+git add <filename>
+```
