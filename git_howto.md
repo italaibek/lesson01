@@ -23,3 +23,9 @@ git commit -m "Message"
 ```sh
 git log
 ```
+
+Показывает историю коммитов в сокращенном формате:
+
+```sh
+git log --oneline
+```
