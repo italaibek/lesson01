@@ -17,3 +17,9 @@ git add <filename>
 ```sh
 git commit -m "Message"
 ```
+
+Показывает историю коммитов в репозитории:
+
+```sh
+git log
+```
