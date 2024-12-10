@@ -11,3 +11,9 @@ git init
 ```sh
 git add <filename>
 ```
+
+Создает новый коммит с указанным сообщением:
+
+```sh
+git commit -m "Message"
+```
